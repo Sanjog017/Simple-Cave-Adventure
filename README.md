@@ -54,4 +54,5 @@ This simple game demonstrates basic programming concepts:
 
 ## License
 
-This project is in the public domain. Feel free to use, modify, and distribute as you wish.
+This project is in the public domain. Feel free to use, modify, and distribute as you wish. 
+                                   ENJOY ;)
