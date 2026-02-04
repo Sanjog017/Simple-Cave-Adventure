@@ -50,7 +50,8 @@ This simple game demonstrates basic programming concepts:
 ## Requirements
 
 - A C compiler (such as GCC)
-- Standard C library support
+- Standard C library support to write the code on.
+- A basic IDE 
 
 ## License
 
