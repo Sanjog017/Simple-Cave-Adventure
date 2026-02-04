@@ -1,6 +1,6 @@
 # Simple Cave Adventure
 
-A simplified text-based adventure decision-making game written in C for beginners, where your choices determine your fate in a small cave system.
+A simplified text-based adventure decision-making game written in C for beginners, where your choices determine your fate in a small cave system.Easy to play.
 
 ## Overview
 
@@ -54,5 +54,4 @@ This simple game demonstrates basic programming concepts:
 
 ## License
 
-This project is in the public domain. Feel free to use, modify, and distribute as you wish. 
-                                   ENJOY ;)
+This project is in the public domain. Feel free to use, modify, and distribute as you wish. AND AT THE LAST  ENJOY ;)
